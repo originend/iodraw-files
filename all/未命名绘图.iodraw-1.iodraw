@@ -124,6 +124,9 @@
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-48" value="Selection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="335" y="280" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-49" value="Roulette Wheel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
