@@ -20,7 +20,7 @@
           <mxGeometry x="60" y="857" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-8" value="解的评价&#xa;━━━━━━&#xa;适应度函数计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="973" width="174" height="84" as="geometry" />
+          <mxGeometry x="470" y="960" width="174" height="84" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-9" value="轮盘赌选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="1106" width="142" height="48" as="geometry" />
@@ -42,16 +42,6 @@
             <Array as="points">
               <mxPoint x="107" y="803" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-7" target="2joWgcEF3H7oGR5CZ5fZ-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-8" target="2joWgcEF3H7oGR5CZ5fZ-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0;entryY=0.02;rounded=0;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-9" target="2joWgcEF3H7oGR5CZ5fZ-10">
