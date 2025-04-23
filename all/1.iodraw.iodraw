@@ -46,8 +46,8 @@
         <mxCell id="MAGItBwzLgDAj0dMCLt1-51" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;line-height:&#xa;150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:&#xa;minor-fareast;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;Operation Sequence&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="355" y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MAGItBwzLgDAj0dMCLt1-52" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;Machine&lt;/span&gt;&amp;nbsp;Selection (MS)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="145" y="60" width="140" height="30" as="geometry" />
+        <mxCell id="MAGItBwzLgDAj0dMCLt1-52" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;Machine&lt;/span&gt;&amp;nbsp;Selection (MS)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="145" y="60" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
