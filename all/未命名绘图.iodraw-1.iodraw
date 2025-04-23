@@ -11,7 +11,7 @@
           <mxGeometry x="194" y="70" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-3" value="种群&#xa;101101001&#xa;011101011" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="172" y="217" width="136" height="84" as="geometry" />
+          <mxGeometry x="260" y="190" width="136" height="84" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-4" value="交叉&#xa;0111010111&#xa;101101011&#xa;011101001" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="114" y="350" width="144" height="101" as="geometry" />
