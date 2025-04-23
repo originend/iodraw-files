@@ -36,7 +36,7 @@
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-11" value="最优解或&#xa;者近似最&#xa;优解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="203" y="839" width="126" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-12" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="210" y="94" as="sourcePoint" />
