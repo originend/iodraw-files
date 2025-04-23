@@ -1,14 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="waIz-0MLjj6MtoRG5WO7">
-    <mxGraphModel dx="1423" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-1" value="初始解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="70" width="109" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-2" value="编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="194" y="70" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-3" value="种群&#xa;101101001&#xa;011101011" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="136" height="84" as="geometry" />
@@ -37,14 +34,10 @@
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-11" value="最优解或&#xa;者近似最&#xa;优解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="203" y="839" width="126" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-1" target="2joWgcEF3H7oGR5CZ5fZ-2">
+        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-2" target="2joWgcEF3H7oGR5CZ5fZ-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="194" y="94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-3" target="2joWgcEF3H7oGR5CZ5fZ-4">
