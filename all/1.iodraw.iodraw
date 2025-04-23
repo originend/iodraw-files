@@ -62,10 +62,10 @@
           <mxGeometry x="170" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAGItBwzLgDAj0dMCLt1-58" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;$$O_{21}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="200" y="360" width="90" height="30" as="geometry" />
+          <mxGeometry x="200" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAGItBwzLgDAj0dMCLt1-59" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;$$O_{22}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="300" width="90" height="30" as="geometry" />
+          <mxGeometry x="230" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAGItBwzLgDAj0dMCLt1-60" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;$$O_{23}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="280" width="90" height="30" as="geometry" />
