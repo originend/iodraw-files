@@ -13,9 +13,6 @@
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-1" value="Initial Solution" style="whiteSpace=wrap;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="44" y="70" width="109" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-5" value="变异&#xa;110001001&#xa;111001011&#xa;11000110" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="119" y="502" width="136" height="101" as="geometry" />
-        </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-6" value="终止条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="129" y="653" width="114" height="114" as="geometry" />
         </mxCell>
@@ -38,11 +35,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="243" y="94" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-5" target="2joWgcEF3H7oGR5CZ5fZ-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-17" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-6" target="2joWgcEF3H7oGR5CZ5fZ-7">
