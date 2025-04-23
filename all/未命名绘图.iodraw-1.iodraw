@@ -11,7 +11,7 @@
           <mxGeometry x="438.13" y="45" width="106" height="180" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-1" value="Initial Solution" style="whiteSpace=wrap;strokeWidth=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="44" y="70" width="109" height="48" as="geometry" />
+          <mxGeometry x="94" y="70" width="109" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-6" value="终止条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="129" y="653" width="114" height="114" as="geometry" />
