@@ -43,8 +43,8 @@
             <mxPoint x="410" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MAGItBwzLgDAj0dMCLt1-51" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;Operation Sequence&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="355" y="60" width="140" height="30" as="geometry" />
+        <mxCell id="MAGItBwzLgDAj0dMCLt1-51" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;Operation Sequence (OS)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="355" y="65" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MAGItBwzLgDAj0dMCLt1-52" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;Machine&lt;/span&gt;&amp;nbsp;Selection (MS)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="65" width="165" height="20" as="geometry" />
