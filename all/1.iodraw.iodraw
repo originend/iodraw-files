@@ -97,11 +97,8 @@
             <mxPoint x="184.57999999999998" y="142" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MAGItBwzLgDAj0dMCLt1-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.498;entryY=1.072;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="230" as="sourcePoint" />
-            <mxPoint x="275" y="202" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="MAGItBwzLgDAj0dMCLt1-76" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="258" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
