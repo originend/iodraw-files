@@ -20,7 +20,7 @@
           <mxGeometry x="60" y="857" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-8" value="Solution Evaluation&#xa;Fitness Function Calculation" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="280" width="155.25" height="60" as="geometry" />
+          <mxGeometry x="425.87" y="280" width="155.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-9" value="轮盘赌选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="1106" width="142" height="48" as="geometry" />
@@ -109,6 +109,9 @@
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;and&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;mutation&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="135" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="510" y="238" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
