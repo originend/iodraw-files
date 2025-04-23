@@ -130,8 +130,8 @@
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-49" value="Roulette Wheel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-50" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="270" width="80" height="50" as="geometry" />
+        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-50" value="achieve the goal" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="103" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
