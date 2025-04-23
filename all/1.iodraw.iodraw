@@ -55,6 +55,9 @@
         <mxCell id="MAGItBwzLgDAj0dMCLt1-54" value="Machine codes arranged by process" style="text;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=14;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="70" y="100" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MAGItBwzLgDAj0dMCLt1-55" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;$$O_{11}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
