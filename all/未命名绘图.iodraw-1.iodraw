@@ -20,7 +20,7 @@
           <mxGeometry x="60" y="857" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-8" value="Solution Evaluation&#xa;Fitness Function Calculation" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="431.75" y="280" width="143.5" height="84" as="geometry" />
+          <mxGeometry x="420" y="280" width="155.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-9" value="轮盘赌选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="1106" width="142" height="48" as="geometry" />
