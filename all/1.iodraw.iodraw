@@ -70,7 +70,7 @@
         <mxCell id="MAGItBwzLgDAj0dMCLt1-60" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;$$O_{23}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MAGItBwzLgDAj0dMCLt1-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.476;entryY=0.806;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=7;fontColor=default;verticalAlign=bottom;" edge="1" parent="1" source="MAGItBwzLgDAj0dMCLt1-37" target="MAGItBwzLgDAj0dMCLt1-57">
+        <mxCell id="MAGItBwzLgDAj0dMCLt1-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.476;entryY=0.806;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=7;fontColor=default;" edge="1" parent="1" source="MAGItBwzLgDAj0dMCLt1-37" target="MAGItBwzLgDAj0dMCLt1-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
