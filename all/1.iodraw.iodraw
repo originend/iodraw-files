@@ -65,7 +65,7 @@
           <mxGeometry x="200" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAGItBwzLgDAj0dMCLt1-59" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;$$O_{22}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="230" y="105" width="90" height="30" as="geometry" />
+          <mxGeometry x="230" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAGItBwzLgDAj0dMCLt1-60" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;$$O_{23}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="260" y="110" width="90" height="30" as="geometry" />
@@ -74,9 +74,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MAGItBwzLgDAj0dMCLt1-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.135;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="MAGItBwzLgDAj0dMCLt1-36" target="MAGItBwzLgDAj0dMCLt1-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MAGItBwzLgDAj0dMCLt1-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.15;entryY=1.183;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="MAGItBwzLgDAj0dMCLt1-39" target="MAGItBwzLgDAj0dMCLt1-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
