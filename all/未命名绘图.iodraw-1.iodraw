@@ -110,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;crossover&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="116" width="70" height="30" as="geometry" />
+          <mxGeometry x="355" y="116" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;and&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;mutation&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="356" y="135" width="70" height="40" as="geometry" />
@@ -129,6 +129,11 @@
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-49" value="Roulette Wheel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2joWgcEF3H7oGR5CZ5fZ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="2joWgcEF3H7oGR5CZ5fZ-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-50" value="achieve the goal" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="200" width="103" height="50" as="geometry" />
