@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-1" value="初始解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="185" y="20" width="109" height="48" as="geometry" />
+          <mxGeometry x="44" y="70" width="109" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-2" value="编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="118" width="93" height="48" as="geometry" />
+          <mxGeometry x="290" y="118" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2joWgcEF3H7oGR5CZ5fZ-3" value="种群&#xa;101101001&#xa;011101011" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="172" y="217" width="136" height="84" as="geometry" />
